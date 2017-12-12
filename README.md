@@ -1,2 +1,2 @@
-# pyconca2017-notes
-Personal notes from talks at PyCon Canada 2017 (Montreal, QC)
+# PyCon Canada 2017 notes
+Personal notes and observations from PyCon Canada 2017 (Montreal, QC)
